@@ -8,7 +8,7 @@ public class MultiAL {
         Scanner in = new Scanner(System.in);
         ArrayList<ArrayList<Integer>> list = new ArrayList<>();
 
-        // initialisation
+        // initialisation for column
         for (int i = 0; i < 3; i++) {
             list.add(new ArrayList<>());
         }
